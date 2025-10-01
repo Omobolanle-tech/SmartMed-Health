@@ -69,7 +69,7 @@ I’m open to entry-level, internship, or project-based opportunities in the Bus
 
 🚀 Project Access
 
-🔗 Click here to explore the project files 
+🔗 Click here to explore the project files (https://omobolanle-tech.github.io/SmartMed-Health/)
 
 🔗 View my other projects on GitHub
 
