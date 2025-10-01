@@ -58,7 +58,7 @@ Analysis Techniques: SWOT, Stakeholder Analysis, Process Mapping
 Documentation: Business Case, Requirements, Evaluation Report
 
 - [Final Project Report (Full Documentation)](docs/SmartMed_Health_Full_Project.pdf)
-- [Business Case Document](business-case/SmartMed_Health_Business_Case.pdf)
+- [Business Case Document](https://github.com/username/repo-name/raw/main/SmartMed_Business_Case.pdf)
 
 👩‍💻 About Me
 
